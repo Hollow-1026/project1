@@ -1,0 +1,7 @@
+2025-07-04 16:00:06,970 - root - INFO : ====================日志记录器开始初始化====================
+2025-07-04 16:00:06,970 - root - INFO : 日志文件路径: general\general_20250704-160006.log
+2025-07-04 16:00:06,970 - root - INFO : 日志记录器初始化时间: 2025-07-04 16:00:06.970038
+2025-07-04 16:00:06,971 - root - INFO : 日志记录器最低记录级别: INFO
+2025-07-04 16:00:06,971 - root - INFO : ====================日志记录器初始化完成====================
+2025-07-04 16:00:06,971 - root - INFO : 开始将Pascal VOC XML文件从 'C:\Users\Matri\Desktop\SafeYolo\yolo_server\data\raw\original_annotations' 转换为Yolo格式文件 'C:\Users\Matri\Desktop\SafeYolo\yolo_server\data\raw\yolo_staged_labels'
+2025-07-04 16:00:06,971 - root - ERROR : 输入目录 'C:\Users\Matri\Desktop\SafeYolo\yolo_server\data\raw\original_annotations' 不存在
